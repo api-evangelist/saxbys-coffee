@@ -1,0 +1,175 @@
+name: Saxbys Coffee
+description: |
+  Saxbys is a Philadelphia-headquartered hospitality company founded in 2005 by
+  Nick Bayer that operates a small chain of cafes across the U.S. East Coast and
+  Midwest. The brand is unique for its "Experiential Learning Platform" (E.L.P.) —
+  100% student-run cafes embedded inside college and university campuses. Each
+  E.L.P. cafe is operated by a Student Cafe Executive Officer (SCEO) who takes
+  full responsibility for running the location while earning paid, experiential
+  learning credit. Saxbys describes itself as "a national education company and
+  For Students, By Students" with a mission to "Make Life Better."
+
+  Saxbys does not publish a public REST API, OpenAPI specification, SDK,
+  developer portal, or partner integration program. The only public digital
+  surfaces are the marketing website (saxbyscoffee.com), location-specific
+  online ordering powered by BentoBox, a "Saxbys Stories" blog, and a mobile
+  ordering / rewards app. The Saxbys GitHub organization exists but currently
+  holds a single internal inventory-analyzer repository. This apis.yml records
+  the company as a non-API hospitality + education brand for the API Evangelist
+  network catalog.
+url: https://github.com/api-evangelist/saxbys-coffee/blob/main/apis.yml
+humanURL: https://www.saxbyscoffee.com
+image: https://www.saxbyscoffee.com/wp-content/uploads/2022/03/saxbys-logo.png
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+type: Index
+aid: saxbys-coffee
+access: 3rd-Party
+tags:
+  - Coffee
+  - Cafe
+  - Hospitality
+  - Food And Beverage
+  - Quick Service Restaurant
+  - Education
+  - Experiential Learning
+  - Higher Education
+  - Student Run Business
+  - Retail
+  - Philadelphia
+  - Private Company
+  - No Public API
+
+apis: []
+
+common:
+  - type: Portal
+    url: https://www.saxbyscoffee.com
+    name: Saxbys Coffee Website
+    description: Public marketing site and primary brand surface for Saxbys.
+  - type: ExperientialLearningPlatform
+    url: https://www.saxbyscoffee.com/the-saxbys-elp/
+    name: The Saxbys E.L.P.
+    description: |
+      Saxbys' Experiential Learning Platform — 100% student-run campus cafes
+      operated by a Student Cafe Executive Officer (SCEO). Saxbys positions
+      itself as "a national education company and For Students, By Students"
+      that "build[s] individualized academic partnerships with universities
+      to provide exceptional, paid, experiential learning opportunities."
+      Named partner institutions include Penn State, Bowie State, Temple,
+      Drexel, Georgia State, Rider, Wellesley, Fordham, and University of
+      Mount Saint Vincent, with additional partnerships announced at
+      Virginia Commonwealth University, University of Texas at Arlington,
+      Siena University, University at Albany, Fairmont State, SUNY
+      Plattsburgh, and Northeastern University.
+  - type: BringToYourCampus
+    url: https://www.saxbyscoffee.com/the-saxbys-elp/
+    name: Bring Saxbys To Your Campus
+    description: Inbound channel for universities interested in partnering on an E.L.P. cafe.
+  - type: ExperientialLearningBadges
+    url: https://www.saxbyscoffee.com/the-saxbys-elp/
+    name: Experiential Learning Badges
+    description: |
+      Corporate microcredentials offered through the E.L.P. covering
+      field-specific skills such as Supply Chain Management, Talent
+      Acquisition, and Training & Development.
+  - type: Locations
+    url: https://www.saxbyscoffee.com/locations/
+    name: Cafe Locations
+    description: |
+      Cafe finder listing roughly 27+ open locations spanning traditional
+      retail cafes and student-run E.L.P. campus cafes across Pennsylvania,
+      New Jersey, New York, Massachusetts, Maryland, Virginia, Ohio,
+      Georgia, Indiana, West Virginia, Texas, and Washington D.C.
+  - type: Menus
+    url: https://www.saxbyscoffee.com/menus/
+    name: Menus
+    description: |
+      Location-specific menus — Saxbys notes "No two Saxbys cafes are
+      exactly alike" with menus varying per cafe.
+  - type: OrderAhead
+    url: https://www.saxbyscoffee.com/locations/
+    name: Order Ahead
+    description: Per-cafe online ordering routed through BentoBox.
+  - type: Catering
+    url: https://www.saxbyscoffee.com/catering/
+    name: Saxbys Catering
+    description: Catering orders for offices, events, and campus partners.
+  - type: OnlineShop
+    url: https://www.saxbyscoffee.com/shop/
+    name: Saxbys Online Shop
+    description: Branded merchandise and packaged coffee for retail purchase.
+  - type: Blog
+    url: https://www.saxbyscoffee.com/saxbys-stories/
+    name: Saxbys Stories
+    description: |
+      Brand news and announcements — heavily focused on new E.L.P. campus
+      cafe launches and university partnership rollouts. No RSS feed
+      detected on the page.
+  - type: Impact
+    url: https://www.saxbyscoffee.com/impact/
+    name: Saxbys Impact
+    description: |
+      Social-impact program covering education, opportunity, and community
+      partnerships. Saxbys describes itself as "a hospitality company with
+      a mission: Make Life Better. Brewing real change in the communities
+      it serves, Saxbys champions education and opportunity to empower the
+      next generation of changemakers."
+  - type: Careers
+    url: https://www.saxbyscoffee.com/careers/
+    name: Saxbys Careers
+    description: |
+      Cafe and HQ roles framed around the O.D.D. values (Outgoing,
+      Detail-Oriented, Disciplined). Applications via the careers page or
+      Recruiting@HelloSaxbys.com. No public engineering or developer roles
+      surfaced.
+  - type: Press
+    url: https://www.saxbyscoffee.com/press/
+    name: Saxbys Press
+    description: Press contact — marketing@saxbyscoffee.com.
+  - type: Contact
+    url: https://www.saxbyscoffee.com/contact/
+    name: Contact Saxbys
+    description: General contact form; HQ in Center City, Philadelphia, PA.
+  - type: PhilanthropicRequests
+    url: https://www.saxbyscoffee.com/donations/
+    name: Philanthropic Requests
+    description: Inbound channel for donation and sponsorship requests.
+  - type: PrivacyPolicy
+    url: https://www.saxbyscoffee.com/privacy-policy/
+    name: Privacy Policy
+    description: Privacy policy (site powered by BentoBox).
+  - type: GitHubOrganization
+    url: https://github.com/Saxbys
+    name: Saxbys on GitHub
+    description: |
+      Saxbys GitHub organization. Contains a single public repository,
+      Saxbys-Inventory-Analyzer-v2, an internal HTML/JS inventory tool
+      published via GitHub Pages. No public SDKs, no OpenAPI, no developer
+      tooling.
+  - type: X
+    url: https://twitter.com/saxbyscoffee
+    name: Saxbys on X
+    description: Brand presence on X (Twitter).
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/saxbys-coffee
+    name: Saxbys on LinkedIn
+    description: Corporate LinkedIn presence.
+  - type: Instagram
+    url: https://www.instagram.com/saxbyscoffee/
+    name: Saxbys on Instagram
+    description: Brand Instagram account.
+  - type: Facebook
+    url: https://www.facebook.com/saxbyscoffee/
+    name: Saxbys on Facebook
+    description: Brand Facebook page.
+  - type: TikTok
+    url: https://www.tiktok.com/@saxbyscoffee
+    name: Saxbys on TikTok
+    description: Brand TikTok account.
+
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
