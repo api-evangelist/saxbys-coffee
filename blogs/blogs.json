@@ -3,16 +3,12 @@
   "feeds": [
     {
       "source": "https://www.saxbyscoffee.com/saxbys-stories/",
-      "feed_url": "https://www.saxbyscoffee.com/saxbys-stories/",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
-    },
-    {
-      "source": "https://www.saxbyscoffee.com/shop/",
-      "error": "HTTPError"
+      "method": "agent-scrape"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T13:09:03Z",
+  "agent_pulled": "2026-06-27"
 }
