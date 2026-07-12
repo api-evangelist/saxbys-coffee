@@ -44,6 +44,8 @@ tags:
 apis: []
 
 common:
+  - type: DomainSecurity
+    url: security/saxbys-coffee-domain-security.yml
   - type: Portal
     url: https://www.saxbyscoffee.com
     name: Saxbys Coffee Website
