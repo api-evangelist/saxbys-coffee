@@ -19,6 +19,17 @@ description: |
   network catalog.
 url: https://github.com/api-evangelist/saxbys-coffee/blob/main/apis.yml
 humanURL: https://www.saxbyscoffee.com
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.saxbyscoffee.com/wp-content/uploads/2022/03/saxbys-logo.png
 created: '2026-05-23'
 modified: '2026-05-23'
