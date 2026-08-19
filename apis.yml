@@ -33,7 +33,7 @@ accessModel:
 image: https://www.saxbyscoffee.com/wp-content/uploads/2022/03/saxbys-logo.png
 created: '2026-05-23'
 modified: '2026-05-23'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 type: Index
 aid: saxbys-coffee
 access: 3rd-Party
