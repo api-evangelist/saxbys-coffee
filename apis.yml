@@ -36,6 +36,9 @@ accessModel:
   trial: false
   try_now: false
   public: false
+  gated: private
+  gated_source:
+  - tag:No Public API
   label: Unknown
   confidence: low
   source: []
@@ -61,7 +64,6 @@ tags:
   - Retail
   - Philadelphia
   - Private Company
-  - No Public API
 tags_raw:
   - Coffee
   - Cafe
@@ -75,7 +77,6 @@ tags_raw:
   - Retail
   - Philadelphia
   - Private Company
-  - No Public API
 
 apis: []
 
@@ -213,3 +214,5 @@ maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
     url: https://apievangelist.com
+x-tags-removed:
+- No Public API
